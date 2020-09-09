@@ -1,0 +1,15 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        System.out.println("Hello World");
+        int Z = 20;
+        int Y = 50;
+        System.out.println(Z + Y);
+        System.out.println(Z * Y);
+        System.out.println(Z == Y);
+        String M = "Abdulmohsen";
+        String F = " Al-Ghanim";
+        System.out.println(M + F);
+       
+     }
+}
